@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * read_line - get the input.
